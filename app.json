@@ -1,0 +1,11 @@
+{
+  "name": "FamilyProj",
+  "displayName": "FamilyProj",
+  "android":{
+    "package":"com.lingonsaft.myapp",
+    "versionCode":1,
+    "permissions":[],
+    "icon":"./src/components/images/contest.png"
+
+  }
+}

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_7fec2d5cd5bf422fe1e6cedbdc4f92c7cede9c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_5de020eb6c60f204dfbee09f0a3a49a9f643a65b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_65f40e5e2a5d9f533e8131214e3aa0512303b2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_7f7e3dec7a00b0eb154fb9fa6b7eafe6aba2057d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_b0393c233f97820a1a171834b58755c272f8c4bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_421eb8fc8b1c40d68cac765f91b4b25bdccec099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_59b805c2fa4ad4807faa24be0e3ddb2b054d465e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_168413c7ddf77698b5a36aeb88ed9a8f553359d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e78b7b8e7b4d4229d906397ebd7d6c875c83cf68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_f7e0b5f53aab1c2afa6a4aea1ee782e31dd981b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_ce65be875bda70588e3d23d6659b45a409688f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_7ed5813ebea2106587cd53f7fccf68f899ff9443.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\FamilyProj\react-native-android-sms-listener\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4c0be45b032a604d0e1f719bfe2ba7ff058841dd">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\FamilyProj-react-native-android-sms-listener-unspecified_3c18b6d3e00d1156269c15c00f52c3728ea14d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_8258500191068403a231f4499f7a8830fff484f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_d8b6b09ec1e2007f03d71f15f62054ae51427bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_efed72c2398b67035882afa425545b74f8b1980d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_0f4d15ac473660cd327fc3acb4358485c019e096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_659d63f33f4b8bbfd6ee74972b5e7260f9f49816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_acf9488fc9d003aeb8a728c3579a8e1c3d3ef8a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_9c5579da8bd064e78b9531bbcfd52ca93c0448c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_0f47c85addf6d76613efb341f0b55bb7e37c0329.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\riyaw\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\riyaw\react-native\FamilyProj\FamilyProj\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_0376d89e62b681d1d0d62d4775f82a686a73f7df.jar" />
+    </item>
+
+</items>
